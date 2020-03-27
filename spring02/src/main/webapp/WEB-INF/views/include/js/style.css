@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* vies/include/style.css */
+a:link { text-decoration: none; color:white; }
+a:hover { text-decoration: underline; color: red; font-size: 1.3em;}
+a:visited { text-decoration: none; }
+a:active { text-decoration: none; color: yellow; }
+
+
+body{
+	background-color: #1a000d;
+	color: white;
+	text-align: center;
+}
+a{
+	color: white;
+}
+table{
+	width: 30%;
+	margin: auto;
+	text-align: center;
+}
+
